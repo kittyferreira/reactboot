@@ -28,6 +28,7 @@ export default function Menu() {
   </Navbar.Collapse>
 </Navbar>
         </>
+        
   );
 }
 
